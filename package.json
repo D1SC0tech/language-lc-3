@@ -1,0 +1,14 @@
+{
+  "name": "language-lc-3",
+  "version": "0.0.0",
+  "description": "LC-3 assembly code support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JordiOrlando/language-lc-3.git"
+  },
+  "license": "MPL"
+}
