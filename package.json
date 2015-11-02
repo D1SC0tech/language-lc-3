@@ -1,6 +1,6 @@
 {
   "name": "language-lc-3-assembly",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "LC-3 assembly code support in Atom",
   "engines": {
     "atom": "*",
